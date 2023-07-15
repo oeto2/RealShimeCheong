@@ -1,0 +1,10 @@
+
+=== Tue Jul 11 13:50:01 2023
+
+Packages were changed.
+Update Mode: resetToDefaultDependencies
+
+The following packages were removed:
+  com.unity.feature.2d@1.0.0
+  com.unity.feature.development@1.0.1
+  com.unity.render-pipelines.universal@12.1.11
